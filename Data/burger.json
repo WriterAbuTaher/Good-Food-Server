@@ -1,0 +1,191 @@
+[
+    {
+        "id": 21,
+        "label": "The Ultimate Burger",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/05f/05f6b1fbd22e92e2f7ba32026abe1714.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCh7%2FQ9EpVdo%2FecVFQRRFtxTWbr2yKvNSdkRPWNxIxUCAIhAJhhd48CFLpO8DutBEfsquVyvZ%2BT%2BQmRcRfATJnkQyE3KtUECM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgxSnE0yEy%2BmjH3wFqkqqQQQ4tI%2B%2BiAqrf36JqyP%2FiA2Olw%2F8%2BoTgPTiqFzm%2BWk6baqBW1o7e0Vn%2FzNcKghmzxLZgoz%2F1kneWRY1lKQeCo6CgYMrG4vwsKbtsQP3gch1xbSjV%2BOPmvRNAjcF4RMN3MB4JW2hB9qKPG97JcreIyhAjRx4tN9903Yy%2F3A6Se9VzCKls01fM1m2u4XoJwT%2BPl4IE1pakr2dbDVJNLohcPW%2BLopa%2FgiZoHOvQtpfIj4k%2Fv8U3PEaqzIhMScGZDsPfvkYgTzIvKYFBN8RpFZ5tKK2x1Ije7RBEJlJs9GlOOdPkib9YGgyShpKWw%2FAZOQrvF58EnUHw7fKB%2B%2F0vH3NhBYjJyVP1f5u%2F0WKVFtTWY%2BSqjXy7kmuqZV6IrdP7VBKaaOtNZQe8QjP7hFDbekGpttF%2BnhLStE8urBS%2BZ055Qyv6y3gUsZy6kjZuuC%2FhkxRNFXDp%2BEqGKlBVzRnOw6M9e7KZlgEtIr3CXgM3CFdZOUk%2BY4HLhrGfTgi89A5soWE390OgmMjtHKiv8sQbRIxH5J2dyK%2FbPzDuh%2F0Qgyp2NxnehqCRFyMsAFhqMBftI9MkdZQITJH8auVjGqfWUotmIsyJZwtHtpNmMjS5%2FBJ2P7cu3T2tQP3Hji%2B3mA1fYaooohJP0wdCiUX5w59az8syn7MDccEnPh%2BZbuQdEn7cpu6Z17zbFtGu2PDts7%2B3vA7xuGhq89BMmVDE3Az0Nr4xIuQSHr%2FGsV37PYKMJ6t3ZoGOqgB7h5nU2ZKPgHemA5ELpzWD7i%2F5O50o2u5xKQx%2FpzI%2Bj%2BY23nQ2PnQ3JOM2wrA62Wes7erj%2FvcuxXfPrdTauf6EmPJCUsOgPPfoVolKW0cyH6vWsEKnos1rL3AWFOy7h%2FTTldnvybg9t0PeyRgiseJWE%2FSV7deKCY7xmftIUybKJi4NZapb2qhFyAmtAR%2FHgc2QDX2sIs2mjuslpBnlLBeTDuUbeWjwx4R&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221025T035734Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFA4Y3ZG6F%2F20221025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=65e95456973d279deadd4c68a22d50dcdb8406c5b997c4b3f0e92c19b58e1800",
+        "healthLabels": [
+            "Dairy-Free",
+            "Egg-Free",
+            "Peanut-Free",
+            "Tree-Nut-Free",
+            "Soy-Free",
+            "Fish-Free",
+            "Shellfish-Free",
+            "Pork-Free",
+            "Crustacean-Free",
+            "Celery-Free",
+            "Sesame-Free",
+            "Lupine-Free",
+            "Mollusk-Free",
+            "Alcohol-Free",
+            "Sulfite-Free",
+            "Kosher"
+        ],
+        "ingredientLines": [
+            "2 1/2 pounds skirt steak or sirloin flap steak",
+            "Accompaniments: homemade burger buns ; homemade ketchup ; homemade mustard ; homemade pickle relish ; lettuce and tomato"
+        ],
+        "price": 93
+    },
+    {
+        "id": 22,
+        "label": "Five Napkin Burger",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/b2e/b2e059571b84fae5afb9d30122a4e06e.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCh7%2FQ9EpVdo%2FecVFQRRFtxTWbr2yKvNSdkRPWNxIxUCAIhAJhhd48CFLpO8DutBEfsquVyvZ%2BT%2BQmRcRfATJnkQyE3KtUECM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgxSnE0yEy%2BmjH3wFqkqqQQQ4tI%2B%2BiAqrf36JqyP%2FiA2Olw%2F8%2BoTgPTiqFzm%2BWk6baqBW1o7e0Vn%2FzNcKghmzxLZgoz%2F1kneWRY1lKQeCo6CgYMrG4vwsKbtsQP3gch1xbSjV%2BOPmvRNAjcF4RMN3MB4JW2hB9qKPG97JcreIyhAjRx4tN9903Yy%2F3A6Se9VzCKls01fM1m2u4XoJwT%2BPl4IE1pakr2dbDVJNLohcPW%2BLopa%2FgiZoHOvQtpfIj4k%2Fv8U3PEaqzIhMScGZDsPfvkYgTzIvKYFBN8RpFZ5tKK2x1Ije7RBEJlJs9GlOOdPkib9YGgyShpKWw%2FAZOQrvF58EnUHw7fKB%2B%2F0vH3NhBYjJyVP1f5u%2F0WKVFtTWY%2BSqjXy7kmuqZV6IrdP7VBKaaOtNZQe8QjP7hFDbekGpttF%2BnhLStE8urBS%2BZ055Qyv6y3gUsZy6kjZuuC%2FhkxRNFXDp%2BEqGKlBVzRnOw6M9e7KZlgEtIr3CXgM3CFdZOUk%2BY4HLhrGfTgi89A5soWE390OgmMjtHKiv8sQbRIxH5J2dyK%2FbPzDuh%2F0Qgyp2NxnehqCRFyMsAFhqMBftI9MkdZQITJH8auVjGqfWUotmIsyJZwtHtpNmMjS5%2FBJ2P7cu3T2tQP3Hji%2B3mA1fYaooohJP0wdCiUX5w59az8syn7MDccEnPh%2BZbuQdEn7cpu6Z17zbFtGu2PDts7%2B3vA7xuGhq89BMmVDE3Az0Nr4xIuQSHr%2FGsV37PYKMJ6t3ZoGOqgB7h5nU2ZKPgHemA5ELpzWD7i%2F5O50o2u5xKQx%2FpzI%2Bj%2BY23nQ2PnQ3JOM2wrA62Wes7erj%2FvcuxXfPrdTauf6EmPJCUsOgPPfoVolKW0cyH6vWsEKnos1rL3AWFOy7h%2FTTldnvybg9t0PeyRgiseJWE%2FSV7deKCY7xmftIUybKJi4NZapb2qhFyAmtAR%2FHgc2QDX2sIs2mjuslpBnlLBeTDuUbeWjwx4R&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221025T035734Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFA4Y3ZG6F%2F20221025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=00d3b749b46eaa75883d8e219da2d364f0ea78f5983665cb0292c68122ec797e",
+        "healthLabels": [
+            "Sugar-Conscious",
+            "Peanut-Free",
+            "Tree-Nut-Free",
+            "Soy-Free",
+            "Fish-Free",
+            "Shellfish-Free",
+            "Pork-Free",
+            "Crustacean-Free",
+            "Celery-Free",
+            "Sesame-Free",
+            "Lupine-Free",
+            "Mollusk-Free",
+            "Alcohol-Free",
+            "Sulfite-Free"
+        ],
+        "ingredientLines": [
+            "3 3/4 pounds freshly ground chuck",
+            "6 soft white hamburger buns, split and toasted",
+            "12 thin slices Gruyere cheese (about 6 ounces)",
+            "1 1/2 cups Andy D'Amico's Caramelized Onions, heated",
+            "1 cup Five Napkin Burger Aioli"
+        ],
+        "price": 63
+    },
+    {
+        "id": 23,
+        "label": "Lamb kebab burger",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/622/622a98136fdd0c1ef7fe1c515460a406.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCh7%2FQ9EpVdo%2FecVFQRRFtxTWbr2yKvNSdkRPWNxIxUCAIhAJhhd48CFLpO8DutBEfsquVyvZ%2BT%2BQmRcRfATJnkQyE3KtUECM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgxSnE0yEy%2BmjH3wFqkqqQQQ4tI%2B%2BiAqrf36JqyP%2FiA2Olw%2F8%2BoTgPTiqFzm%2BWk6baqBW1o7e0Vn%2FzNcKghmzxLZgoz%2F1kneWRY1lKQeCo6CgYMrG4vwsKbtsQP3gch1xbSjV%2BOPmvRNAjcF4RMN3MB4JW2hB9qKPG97JcreIyhAjRx4tN9903Yy%2F3A6Se9VzCKls01fM1m2u4XoJwT%2BPl4IE1pakr2dbDVJNLohcPW%2BLopa%2FgiZoHOvQtpfIj4k%2Fv8U3PEaqzIhMScGZDsPfvkYgTzIvKYFBN8RpFZ5tKK2x1Ije7RBEJlJs9GlOOdPkib9YGgyShpKWw%2FAZOQrvF58EnUHw7fKB%2B%2F0vH3NhBYjJyVP1f5u%2F0WKVFtTWY%2BSqjXy7kmuqZV6IrdP7VBKaaOtNZQe8QjP7hFDbekGpttF%2BnhLStE8urBS%2BZ055Qyv6y3gUsZy6kjZuuC%2FhkxRNFXDp%2BEqGKlBVzRnOw6M9e7KZlgEtIr3CXgM3CFdZOUk%2BY4HLhrGfTgi89A5soWE390OgmMjtHKiv8sQbRIxH5J2dyK%2FbPzDuh%2F0Qgyp2NxnehqCRFyMsAFhqMBftI9MkdZQITJH8auVjGqfWUotmIsyJZwtHtpNmMjS5%2FBJ2P7cu3T2tQP3Hji%2B3mA1fYaooohJP0wdCiUX5w59az8syn7MDccEnPh%2BZbuQdEn7cpu6Z17zbFtGu2PDts7%2B3vA7xuGhq89BMmVDE3Az0Nr4xIuQSHr%2FGsV37PYKMJ6t3ZoGOqgB7h5nU2ZKPgHemA5ELpzWD7i%2F5O50o2u5xKQx%2FpzI%2Bj%2BY23nQ2PnQ3JOM2wrA62Wes7erj%2FvcuxXfPrdTauf6EmPJCUsOgPPfoVolKW0cyH6vWsEKnos1rL3AWFOy7h%2FTTldnvybg9t0PeyRgiseJWE%2FSV7deKCY7xmftIUybKJi4NZapb2qhFyAmtAR%2FHgc2QDX2sIs2mjuslpBnlLBeTDuUbeWjwx4R&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221025T035734Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFA4Y3ZG6F%2F20221025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5a73d3b328f149163b49857c58f4eac7b4b9a376b8048b30d752f831044af72d",
+        "healthLabels": [
+            "Peanut-Free",
+            "Tree-Nut-Free",
+            "Soy-Free",
+            "Fish-Free",
+            "Shellfish-Free",
+            "Pork-Free",
+            "Crustacean-Free",
+            "Celery-Free",
+            "Lupine-Free",
+            "Mollusk-Free",
+            "Alcohol-Free",
+            "Sulfite-Free"
+        ],
+        "ingredientLines": [
+            "2 tbsp fat-free yogurt",
+            "1 tbsp mayonnaise",
+            "1 small garlic clove , grated",
+            "½ tbsp vegetable oil",
+            "2 lamb burgers",
+            "2 sesame seed burger buns",
+            "1 tomato , sliced",
+            "20g gherkins , sliced",
+            "1 red chilli , finely sliced",
+            "leaves of 1 Baby Gem lettuce"
+        ],
+        "price": 28
+    },
+    {
+        "id": 24,
+        "label": "The Ultimate Cheese-Filled Beef and Pork Burger Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/e55/e5519ecb228ee2b046336217c45f5c36.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCh7%2FQ9EpVdo%2FecVFQRRFtxTWbr2yKvNSdkRPWNxIxUCAIhAJhhd48CFLpO8DutBEfsquVyvZ%2BT%2BQmRcRfATJnkQyE3KtUECM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgxSnE0yEy%2BmjH3wFqkqqQQQ4tI%2B%2BiAqrf36JqyP%2FiA2Olw%2F8%2BoTgPTiqFzm%2BWk6baqBW1o7e0Vn%2FzNcKghmzxLZgoz%2F1kneWRY1lKQeCo6CgYMrG4vwsKbtsQP3gch1xbSjV%2BOPmvRNAjcF4RMN3MB4JW2hB9qKPG97JcreIyhAjRx4tN9903Yy%2F3A6Se9VzCKls01fM1m2u4XoJwT%2BPl4IE1pakr2dbDVJNLohcPW%2BLopa%2FgiZoHOvQtpfIj4k%2Fv8U3PEaqzIhMScGZDsPfvkYgTzIvKYFBN8RpFZ5tKK2x1Ije7RBEJlJs9GlOOdPkib9YGgyShpKWw%2FAZOQrvF58EnUHw7fKB%2B%2F0vH3NhBYjJyVP1f5u%2F0WKVFtTWY%2BSqjXy7kmuqZV6IrdP7VBKaaOtNZQe8QjP7hFDbekGpttF%2BnhLStE8urBS%2BZ055Qyv6y3gUsZy6kjZuuC%2FhkxRNFXDp%2BEqGKlBVzRnOw6M9e7KZlgEtIr3CXgM3CFdZOUk%2BY4HLhrGfTgi89A5soWE390OgmMjtHKiv8sQbRIxH5J2dyK%2FbPzDuh%2F0Qgyp2NxnehqCRFyMsAFhqMBftI9MkdZQITJH8auVjGqfWUotmIsyJZwtHtpNmMjS5%2FBJ2P7cu3T2tQP3Hji%2B3mA1fYaooohJP0wdCiUX5w59az8syn7MDccEnPh%2BZbuQdEn7cpu6Z17zbFtGu2PDts7%2B3vA7xuGhq89BMmVDE3Az0Nr4xIuQSHr%2FGsV37PYKMJ6t3ZoGOqgB7h5nU2ZKPgHemA5ELpzWD7i%2F5O50o2u5xKQx%2FpzI%2Bj%2BY23nQ2PnQ3JOM2wrA62Wes7erj%2FvcuxXfPrdTauf6EmPJCUsOgPPfoVolKW0cyH6vWsEKnos1rL3AWFOy7h%2FTTldnvybg9t0PeyRgiseJWE%2FSV7deKCY7xmftIUybKJi4NZapb2qhFyAmtAR%2FHgc2QDX2sIs2mjuslpBnlLBeTDuUbeWjwx4R&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221025T035734Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFA4Y3ZG6F%2F20221025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e1baa61e3c2077a1e5696b992a89f26cc4ae8a3cb04598e1b40b06868e5dd65b",
+        "healthLabels": [
+            "Egg-Free",
+            "Peanut-Free",
+            "Tree-Nut-Free",
+            "Soy-Free",
+            "Fish-Free",
+            "Shellfish-Free",
+            "Crustacean-Free",
+            "Celery-Free",
+            "Mustard-Free",
+            "Sesame-Free",
+            "Lupine-Free",
+            "Mollusk-Free",
+            "Alcohol-Free",
+            "Sulfite-Free"
+        ],
+        "ingredientLines": [
+            "3/4 pound boneless pork top round (see note above)",
+            "3/4 pound boneless beef chuck (see note above)",
+            "1/4 pound mild cheddar cheese, grated",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon freshly-ground black pepper",
+            "4 burger buns",
+            "8 Romaine lettuce leaves",
+            "2 beefsteak tomatos, sliced thick"
+        ],
+        "price": 98
+    },
+    {
+        "id": 25,
+        "label": "Duck Burger Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/864/864a7b9542f12f6f9d371d12111ed955.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCh7%2FQ9EpVdo%2FecVFQRRFtxTWbr2yKvNSdkRPWNxIxUCAIhAJhhd48CFLpO8DutBEfsquVyvZ%2BT%2BQmRcRfATJnkQyE3KtUECM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgxSnE0yEy%2BmjH3wFqkqqQQQ4tI%2B%2BiAqrf36JqyP%2FiA2Olw%2F8%2BoTgPTiqFzm%2BWk6baqBW1o7e0Vn%2FzNcKghmzxLZgoz%2F1kneWRY1lKQeCo6CgYMrG4vwsKbtsQP3gch1xbSjV%2BOPmvRNAjcF4RMN3MB4JW2hB9qKPG97JcreIyhAjRx4tN9903Yy%2F3A6Se9VzCKls01fM1m2u4XoJwT%2BPl4IE1pakr2dbDVJNLohcPW%2BLopa%2FgiZoHOvQtpfIj4k%2Fv8U3PEaqzIhMScGZDsPfvkYgTzIvKYFBN8RpFZ5tKK2x1Ije7RBEJlJs9GlOOdPkib9YGgyShpKWw%2FAZOQrvF58EnUHw7fKB%2B%2F0vH3NhBYjJyVP1f5u%2F0WKVFtTWY%2BSqjXy7kmuqZV6IrdP7VBKaaOtNZQe8QjP7hFDbekGpttF%2BnhLStE8urBS%2BZ055Qyv6y3gUsZy6kjZuuC%2FhkxRNFXDp%2BEqGKlBVzRnOw6M9e7KZlgEtIr3CXgM3CFdZOUk%2BY4HLhrGfTgi89A5soWE390OgmMjtHKiv8sQbRIxH5J2dyK%2FbPzDuh%2F0Qgyp2NxnehqCRFyMsAFhqMBftI9MkdZQITJH8auVjGqfWUotmIsyJZwtHtpNmMjS5%2FBJ2P7cu3T2tQP3Hji%2B3mA1fYaooohJP0wdCiUX5w59az8syn7MDccEnPh%2BZbuQdEn7cpu6Z17zbFtGu2PDts7%2B3vA7xuGhq89BMmVDE3Az0Nr4xIuQSHr%2FGsV37PYKMJ6t3ZoGOqgB7h5nU2ZKPgHemA5ELpzWD7i%2F5O50o2u5xKQx%2FpzI%2Bj%2BY23nQ2PnQ3JOM2wrA62Wes7erj%2FvcuxXfPrdTauf6EmPJCUsOgPPfoVolKW0cyH6vWsEKnos1rL3AWFOy7h%2FTTldnvybg9t0PeyRgiseJWE%2FSV7deKCY7xmftIUybKJi4NZapb2qhFyAmtAR%2FHgc2QDX2sIs2mjuslpBnlLBeTDuUbeWjwx4R&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221025T035734Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFA4Y3ZG6F%2F20221025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a6fb6b1f65fa541ca6b8ddf671f96b1e46a86950f964fc67de9a6344cd7484f6",
+        "healthLabels": [
+            "Sugar-Conscious",
+            "Peanut-Free",
+            "Tree-Nut-Free",
+            "Soy-Free",
+            "Fish-Free",
+            "Shellfish-Free",
+            "Pork-Free",
+            "Crustacean-Free",
+            "Celery-Free",
+            "Sesame-Free",
+            "Lupine-Free",
+            "Mollusk-Free",
+            "Alcohol-Free",
+            "Sulfite-Free"
+        ],
+        "ingredientLines": [
+            "1 pound ground duck meat",
+            "1 ounce duck fat",
+            "4 scallions, finely chopped",
+            "2 teaspoons grated fresh ginger",
+            "1/4 teaspoon Chinese five-spice powder",
+            "salt and freshly ground black pepper",
+            "2 teaspoons vegetable oil",
+            "4 slices Swiss cheese",
+            "4 Brioche rolls, big enough for a burger",
+            "mayonnaise, for garnish"
+        ],
+        "price": 37
+    },
+    {
+        "id": 26,
+        "label": "Double Mushroom Mesquite Burger",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/f9b/f9b0adc1db5c506d3f13e3ad6a5b2479.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCh7%2FQ9EpVdo%2FecVFQRRFtxTWbr2yKvNSdkRPWNxIxUCAIhAJhhd48CFLpO8DutBEfsquVyvZ%2BT%2BQmRcRfATJnkQyE3KtUECM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMTg3MDE3MTUwOTg2IgxSnE0yEy%2BmjH3wFqkqqQQQ4tI%2B%2BiAqrf36JqyP%2FiA2Olw%2F8%2BoTgPTiqFzm%2BWk6baqBW1o7e0Vn%2FzNcKghmzxLZgoz%2F1kneWRY1lKQeCo6CgYMrG4vwsKbtsQP3gch1xbSjV%2BOPmvRNAjcF4RMN3MB4JW2hB9qKPG97JcreIyhAjRx4tN9903Yy%2F3A6Se9VzCKls01fM1m2u4XoJwT%2BPl4IE1pakr2dbDVJNLohcPW%2BLopa%2FgiZoHOvQtpfIj4k%2Fv8U3PEaqzIhMScGZDsPfvkYgTzIvKYFBN8RpFZ5tKK2x1Ije7RBEJlJs9GlOOdPkib9YGgyShpKWw%2FAZOQrvF58EnUHw7fKB%2B%2F0vH3NhBYjJyVP1f5u%2F0WKVFtTWY%2BSqjXy7kmuqZV6IrdP7VBKaaOtNZQe8QjP7hFDbekGpttF%2BnhLStE8urBS%2BZ055Qyv6y3gUsZy6kjZuuC%2FhkxRNFXDp%2BEqGKlBVzRnOw6M9e7KZlgEtIr3CXgM3CFdZOUk%2BY4HLhrGfTgi89A5soWE390OgmMjtHKiv8sQbRIxH5J2dyK%2FbPzDuh%2F0Qgyp2NxnehqCRFyMsAFhqMBftI9MkdZQITJH8auVjGqfWUotmIsyJZwtHtpNmMjS5%2FBJ2P7cu3T2tQP3Hji%2B3mA1fYaooohJP0wdCiUX5w59az8syn7MDccEnPh%2BZbuQdEn7cpu6Z17zbFtGu2PDts7%2B3vA7xuGhq89BMmVDE3Az0Nr4xIuQSHr%2FGsV37PYKMJ6t3ZoGOqgB7h5nU2ZKPgHemA5ELpzWD7i%2F5O50o2u5xKQx%2FpzI%2Bj%2BY23nQ2PnQ3JOM2wrA62Wes7erj%2FvcuxXfPrdTauf6EmPJCUsOgPPfoVolKW0cyH6vWsEKnos1rL3AWFOy7h%2FTTldnvybg9t0PeyRgiseJWE%2FSV7deKCY7xmftIUybKJi4NZapb2qhFyAmtAR%2FHgc2QDX2sIs2mjuslpBnlLBeTDuUbeWjwx4R&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221025T035734Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFA4Y3ZG6F%2F20221025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e77c5fea52476c9bf4221883373eda85123d92804cad9785518f93c7aaca8ef1",
+        "healthLabels": [
+            "Peanut-Free",
+            "Tree-Nut-Free",
+            "Soy-Free",
+            "Fish-Free",
+            "Shellfish-Free",
+            "Pork-Free",
+            "Crustacean-Free",
+            "Celery-Free",
+            "Sesame-Free",
+            "Lupine-Free",
+            "Mollusk-Free",
+            "Alcohol-Free"
+        ],
+        "ingredientLines": [
+            "1.5 pounds Ground chuck or ground beef",
+            "1 1/4 cups Fresh mushrooms sliced and diced",
+            "2 tablespoons Mesquite flavored Liquid Smoke",
+            "1 teaspoon Black pepper",
+            "1/2 teaspoon Salt",
+            "4 pieces Swiss cheese",
+            "1 Onion cut into slivers or diced",
+            "4 Bakery or deli fresh burger buns",
+            "2 tablespoons Olive oil",
+            "1/2 cup Mayonnaise",
+            "1 1/2 teaspoons Powdered ginger",
+            "1 teaspoon Granulated sugar"
+        ],
+        "price": 74
+    }
+]
