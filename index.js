@@ -37,11 +37,19 @@ app.get('/fish', (req, res) => {
 });
 
 app.get('/food/:id', (req, res) => {
-    const id = parseInt(req.params.id);
-    const food = allFood.find(e => e.id === id);
+    const id = req.params.id;
+    const food = allFood.find(e => e.id == id);
     res.send(food)
 })
+
+// app.get('category/:name', (req, res) => {
+//     const name = req.params.name;
+//     const getcategory = allFood.find(e => e.category == name);
+//     res.send(getcategory)
+// })
 
 app.listen(port, () => {
     console.log(`listening server port: ${port}`);
 });
+
+module.exports = app;
