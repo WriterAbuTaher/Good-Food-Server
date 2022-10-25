@@ -5,6 +5,7 @@ app.use(cors());
 
 const port = process.env.port || 5000;
 
+const allFood = require("./Data/allFood")
 const burger = require("./Data/burger.json")
 const chicken = require("./Data/chicken.json")
 const juice = require("./Data/juice.json")
@@ -13,7 +14,7 @@ const veggie = require("./Data/veggie.json")
 const fish = require("./Data/fish.json")
 
 app.get('/', (req, res) => {
-    res.send('Hello World')
+    res.send(allFood)
 });
 
 app.get('/burger', (req, res) => {
@@ -34,6 +35,12 @@ app.get('/juice', (req, res) => {
 app.get('/fish', (req, res) => {
     res.send(fish)
 });
+
+app.get('/food/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const food = allFood.find(e => e.id === id);
+    res.send(food)
+})
 
 app.listen(port, () => {
     console.log(`listening server port: ${port}`);
