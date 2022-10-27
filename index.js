@@ -13,10 +13,12 @@ const cream = require("./Data/cream.json")
 const veggie = require("./Data/veggie.json")
 const fish = require("./Data/fish.json")
 
+// main all food
 app.get('/', (req, res) => {
     res.send(allFood)
 });
 
+// category added
 app.get('/burger', (req, res) => {
     res.send(burger)
 });
@@ -36,6 +38,7 @@ app.get('/fish', (req, res) => {
     res.send(fish)
 });
 
+// food detail with id
 app.get('/food/:id', (req, res) => {
     const id = req.params.id;
     const food = allFood.find(e => e.id == id);
