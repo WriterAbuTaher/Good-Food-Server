@@ -1,6 +1,8 @@
 [
     {
         "id": 1,
+        "category-id": 100,
+        "category": "Chicken",
         "label": "Chicken Vesuvio",
         "image": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "ingredientLines": [
@@ -40,6 +42,8 @@
     },
     {
         "id": 2,
+        "category-id": 100,
+        "category": "Chicken",
         "label": "Chicken Paprikash",
         "image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2hpY2tlbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "ingredientLines": [
@@ -77,6 +81,8 @@
     },
     {
         "id": 3,
+        "category-id": 100,
+        "category": "Chicken",
         "label": "Baked Chicken",
         "image": "https://images.unsplash.com/photo-1606728035253-49e8a23146de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2hpY2tlbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "ingredientLines": [
@@ -117,6 +123,8 @@
     },
     {
         "id": 4,
+        "category-id": 100,
+        "category": "Chicken",
         "label": "Catalan Chicken",
         "image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2hpY2tlbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "ingredientLines": [
@@ -153,6 +161,8 @@
     },
     {
         "id": 5,
+        "category-id": 100,
+        "category": "Chicken",
         "label": "Chicken Stew",
         "image": "https://images.unsplash.com/photo-1638439430466-b2bb7fdc1d67?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "ingredientLines": [
@@ -193,6 +203,8 @@
     },
     {
         "id": 6,
+        "category-id": 100,
+        "category": "Chicken",
         "label": "Chicken Liver Pâté",
         "image": "https://images.unsplash.com/photo-1615557960916-5f4791effe9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoaWNrZW4lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "ingredientLines": [
@@ -224,6 +236,8 @@
     },
     {
         "id": 11,
+        "category-id": 500,
+        "category": "Juice",
         "label": "Balanced Green Juice Recipe",
         "image": "https://images.unsplash.com/photo-1610622930110-3c076902312a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGp1aWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
         "ingredientLines": [
@@ -265,6 +279,8 @@
     },
     {
         "id": 12,
+        "category-id": 500,
+        "category": "Juice",
         "label": "Carrot-Juice Mimosas",
         "image": "https://images.unsplash.com/photo-1621659911279-b08ce9ff421f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGp1aWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
         "ingredientLines": [
@@ -302,6 +318,8 @@
     },
     {
         "id": 13,
+        "category-id": 500,
+        "category": "Juice",
         "label": "Fruit Juice \"Gummies\"",
         "image": "https://images.unsplash.com/photo-1615478503562-ec2d8aa0e24e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGp1aWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
         "ingredientLines": [
@@ -335,6 +353,8 @@
     },
     {
         "id": 14,
+        "category-id": 500,
+        "category": "Juice",
         "label": "Jungle Juice",
         "image": "https://images.unsplash.com/flagged/photo-1557753478-b9fb74f39eb5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGp1aWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
         "ingredientLines": [
@@ -380,6 +400,8 @@
     },
     {
         "id": 15,
+        "category-id": 500,
+        "category": "Juice",
         "label": "Juice",
         "image": "https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGp1aWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
         "ingredientLines": [
@@ -417,6 +439,8 @@
     },
     {
         "id": 16,
+        "category-id": 500,
+        "category": "Juice",
         "label": "Scamper Juice (Party Punch)",
         "image": "https://images.unsplash.com/photo-1546173159-315724a31696?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGp1aWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
         "ingredientLines": [
@@ -456,6 +480,8 @@
     },
     {
         "id": 21,
+        "category-id": 200,
+        "category": "Burger",
         "label": "The Ultimate Burger",
         "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -484,6 +510,8 @@
     },
     {
         "id": 22,
+        "category-id": 200,
+        "category": "Burger",
         "label": "Five Napkin Burger",
         "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -545,6 +573,8 @@
     },
     {
         "id": 24,
+        "category-id": 200,
+        "category": "Burger",
         "label": "The Ultimate Cheese-Filled Beef and Pork Burger Recipe",
         "image": "https://plus.unsplash.com/premium_photo-1664472724753-0a4700e4137b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "healthLabels": [
@@ -577,6 +607,8 @@
     },
     {
         "id": 25,
+        "category-id": 200,
+        "category": "Burger",
         "label": "Duck Burger Recipe",
         "image": "https://images.unsplash.com/photo-1596662951482-0c4ba74a6df6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJ1cmdlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "healthLabels": [
@@ -611,6 +643,8 @@
     },
     {
         "id": 26,
+        "category-id": 200,
+        "category": "Burger",
         "label": "Double Mushroom Mesquite Burger",
         "image": "https://images.unsplash.com/photo-1571091655789-405eb7a3a3a8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGJ1cmdlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "healthLabels": [
@@ -645,6 +679,8 @@
     },
     {
         "id": 31,
+        "category-id": 400,
+        "category": "Fish",
         "label": "Burnt-Scallion Fish",
         "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmlzaCUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -680,6 +716,8 @@
     },
     {
         "id": 32,
+        "category-id": 400,
+        "category": "Fish",
         "label": "Fish Head Curry",
         "image": "https://images.unsplash.com/photo-1600699899970-b1c9fadd8f9e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZmlzaCUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -718,6 +756,8 @@
     },
     {
         "id": 33,
+        "category-id": 400,
+        "category": "Fish",
         "label": "Fish And Chips",
         "image": "https://images.unsplash.com/photo-1611171711912-e3f6b536f532?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZmlzaCUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -755,6 +795,8 @@
     },
     {
         "id": 34,
+        "category-id": 400,
+        "category": "Fish",
         "label": "Fish Fumet recipes",
         "image": "https://images.unsplash.com/photo-1601314002592-b8734bca6604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZmlzaCUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -789,6 +831,8 @@
     },
     {
         "id": 35,
+        "category-id": 400,
+        "category": "Fish",
         "label": "Homemade fish fingers",
         "image": "https://images.unsplash.com/photo-1597692493640-b70139c9e4ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZpc2glMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -823,6 +867,8 @@
     },
     {
         "id": 36,
+        "category-id": 400,
+        "category": "Fish",
         "label": "Gefilte Fish",
         "image": "https://images.unsplash.com/photo-1585610880923-e886dfb0bb72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGZpc2glMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -863,6 +909,8 @@
     },
     {
         "id": 51,
+        "category-id": 600,
+        "category": "Veggie",
         "label": "White-Bean Dip with Veggie Chips",
         "image": "https://images.unsplash.com/photo-1519996409144-56c88c9aa612?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmVnZ2llJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -907,6 +955,8 @@
     },
     {
         "id": 52,
+        "category-id": 600,
+        "category": "Veggie",
         "label": "Red Wine Braised Lentils with (Veggie) Sausage",
         "image": "https://images.unsplash.com/photo-1585238342070-61e1e768b1ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dmVnZ2llJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -943,6 +993,8 @@
     },
     {
         "id": 53,
+        "category-id": 600,
+        "category": "Veggie",
         "label": "Cakespy: Bacon, Cereal, and Orange Juice Breakfast Cookies Recipe",
         "image": "https://images.unsplash.com/photo-1561043433-aaf687c4cf04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZ2llJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -975,6 +1027,8 @@
     },
     {
         "id": 54,
+        "category-id": 600,
+        "category": "Veggie",
         "label": "Red Wine-Braised Lentils With (Veggie) Sausage",
         "image": "https://images.unsplash.com/photo-1603046891744-1f76eb10aec7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dmVnZ2llJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -1012,6 +1066,8 @@
     },
     {
         "id": 55,
+        "category-id": 600,
+        "category": "Veggie",
         "label": "Morningstar Farmsandreg; Garden Veggie Deluxe Burger",
         "image": "https://images.unsplash.com/photo-1625540002162-00320b5c6b63?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dmVnZ2llJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -1046,6 +1102,8 @@
     },
     {
         "id": 56,
+        "category-id": 600,
+        "category": "Veggie",
         "label": "Veggie Burger Hash",
         "image": "https://images.unsplash.com/photo-1525059696034-4967a8e1dca2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHZlZ2dpZSUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -1089,6 +1147,8 @@
     },
     {
         "id": 61,
+        "category-id": 300,
+        "category": "Cream",
         "label": "Strawberries With Sour Cream",
         "image": "https://images.unsplash.com/photo-1516100970402-530cfdf696d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3JlYW0lMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -1128,6 +1188,8 @@
     },
     {
         "id": 62,
+        "category-id": 300,
+        "category": "Cream",
         "label": "Cookies & Cream Ice Cream",
         "image": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNyZWFtJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -1161,6 +1223,8 @@
     },
     {
         "id": 63,
+        "category-id": 300,
+        "category": "Cream",
         "label": "Cream Cheesecake",
         "image": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNyZWFtJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -1195,6 +1259,8 @@
     },
     {
         "id": 64,
+        "category-id": 300,
+        "category": "Cream",
         "label": "Cookies & Cream Ice Cream",
         "image": "https://images.unsplash.com/photo-1532678465554-94846274c297?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGNyZWFtJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -1228,6 +1294,8 @@
     },
     {
         "id": 65,
+        "category-id": 300,
+        "category": "Cream",
         "label": "Ginger Cream",
         "image": "https://images.unsplash.com/photo-1598214886806-c87b84b7078b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGNyZWFtJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
@@ -1265,6 +1333,8 @@
     },
     {
         "id": 66,
+        "category-id": 300,
+        "category": "Cream",
         "label": "Raspberry burnt cream",
         "image": "https://images.unsplash.com/photo-1474625342403-1b8a2c0f7215?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNyZWFtJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
         "healthLabels": [
